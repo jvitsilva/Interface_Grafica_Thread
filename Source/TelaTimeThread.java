@@ -75,7 +75,7 @@ public class TelaTimeThread extends JDialog {
     private Thread thread2time; 
 
     public TelaTimeThread(){ //executa o q tiver dentro no momento da abertura ou execução
-        setTitle("Tela de time com thread");
+        setTitle("Tela de Time");
         setSize(240, 240);
         setLocationRelativeTo(null);
         setResizable(false);
